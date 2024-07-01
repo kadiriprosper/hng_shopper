@@ -30,3 +30,12 @@ You could also download the application [here](https://github.com/).
 
 ### Screenshots
 
+### Screenshots
+
+<img src="https://github.com/kadiriprosper/hng_shopper/blob/master/screenshot/1719870432921.jpg" alt="Splash View" width="200">
+
+<img src="https://github.com/kadiriprosper/hng_shopper/blob/master/screenshot/1719870432948.jpg" alt="Splash View" width="200">
+
+<img src="https://github.com/kadiriprosper/hng_shopper/blob/master/screenshot/1719870432970.jpg" alt="Splash View" width="200">
+
+<img src="https://github.com/kadiriprosper/hng_shopper/blob/master/screenshot/1719870432993.jpg" alt="Splash View" width="200">
